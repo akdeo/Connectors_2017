@@ -1,0 +1,12 @@
+.table{
+	width: 90% !important;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.in_page_link{
+	font-size: small;
+	position: absolute;
+	right: 10px;
+
+}
